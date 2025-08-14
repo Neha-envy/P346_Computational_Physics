@@ -1,7 +1,7 @@
 # P346_Computational_Physics
 
-pre reqs
-1. Classes
-2. Matrix multiplication
-3. Reading a file 
-4. Writing into a file 
+## Pre reqs
+1. Libraries 
+2. Classes
+4. Reading a file 
+5. Writing into a file
